@@ -68,7 +68,7 @@ function Decision {
 ## Install Seedbox Environment
 tput sgr0; clear
 normal_1; echo "Start Installing Seedbox Environment"; warn_2
-source <(wget -qO- https://raw.githubusercontent.com/jerry048/Seedbox-Components/main/seedbox_installation.sh)
+source <(wget -qO- https://raw.githubusercontent.com/vinokok/Seedbox-Components/main/seedbox_installation.sh)
 Update
 Decision qBittorrent
 Decision Deluge
